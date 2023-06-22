@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P0003_Internet</string>
+    <string name="next_joke">next joke</string>
+    <string name="punchline">punchline</string>
+    <string name="setup">setup</string>
+</resources>
